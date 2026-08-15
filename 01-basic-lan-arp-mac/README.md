@@ -3,6 +3,7 @@
 The goal of this lab is to build a basic local area network using Cisco Packet Tracer and observe how devices communicate using IPv4, MAC addresses, ARP and ICMP.
 
 ## Topology
+![Basic LAN Topology](./topology.png)
 
 - 2 PCs
 - 1 Cisco 2960 Switch
