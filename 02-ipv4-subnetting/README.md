@@ -6,6 +6,8 @@ The goal of this lab is to understand how devices communicate across different I
 
 ## Topology
 
+![IPv4 Subnetting Topology](./topology.png)
+
 - 2 PCs
 - 2 Cisco switches
 - 1 router
