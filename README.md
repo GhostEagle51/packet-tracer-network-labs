@@ -8,3 +8,6 @@ Hands-on Cisco Packet Tracer labs covering networking fundamentals, switching, r
 - [03 - Switching, ARP and MAC Address Table](./03-switching-arp-mac/)
 - [04 - VLAN](./04-vlan/)
 - [05 - Trunk](./05-trunk/)
+- [06 - Inter-VLAN Routing](./06-inter-vlan-routing/)
+
+- 
