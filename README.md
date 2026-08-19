@@ -11,3 +11,4 @@ Hands-on Cisco Packet Tracer labs covering networking fundamentals, switching, r
 - [06 - Inter-VLAN Routing](./06-inter-vlan-routing/)
 - [07 - Static Routing](./07-static-routing/)
 - [08 - Default Routing](./08-default-routing/)
+- [09 - Spanning Tree Protocol (STP)](./09-stp/)
