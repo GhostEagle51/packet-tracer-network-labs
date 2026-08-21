@@ -14,3 +14,4 @@ Hands-on Cisco Packet Tracer labs covering networking fundamentals, switching, r
 - [09 - Spanning Tree Protocol (STP)](./09-stp/)
 - [10 - EtherChannel](./10-etherchannel/)
 - [11 - DHCP](./11-dhcp/)
+- [12 - NAT and PAT](./12-nat/)
