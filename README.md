@@ -15,3 +15,4 @@ Hands-on Cisco Packet Tracer labs covering networking fundamentals, switching, r
 - [10 - EtherChannel](./10-etherchannel/)
 - [11 - DHCP](./11-dhcp/)
 - [12 - NAT and PAT](./12-nat/)
+- [13 - Access Control List (ACL)](./13-acl/)
