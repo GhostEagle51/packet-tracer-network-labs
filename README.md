@@ -16,3 +16,4 @@ Hands-on Cisco Packet Tracer labs covering networking fundamentals, switching, r
 - [11 - DHCP](./11-dhcp/)
 - [12 - NAT and PAT](./12-nat/)
 - [13 - Access Control List (ACL)](./13-acl/)
+- [14 - Small Office Network](./14-small-office-network/)
